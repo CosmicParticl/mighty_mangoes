@@ -1,0 +1,32 @@
+{
+  "schemaVersion": 1,
+  "id": "mighty_mangoes",
+  "version": "${version}",
+
+  "name": "Mighty Mangoes",
+  "description": "This mod adds mangoes, which are, coincidentally, mighty",
+  "authors": [
+    "CosmicParticl, assets by Bumble_Dani"
+  ],
+  "contact": {
+    "homepage": "https://www.curseforge.com/members/cosmicparticl",
+    "sources": "https://github.com/CosmicParticl"
+  },
+
+  "license": "CC0-1.0",
+  "icon": "assets/mighty_mangoes/icon.png",
+
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "net.cosmicparticl.mighty_mangoes.mighty_mangoes"
+    ]
+  },
+
+  "depends": {
+    "fabricloader": ">=0.11.3",
+    "fabric": "*",
+    "minecraft": "1.18.x",
+    "java": ">=17"
+  }
+}

@@ -1,0 +1,12 @@
+{
+    "language.name": "English",
+    "language.region": "United States",
+    "language.code": "en_us",
+
+    "itemGroup.mighty_mangoes": "Mighty Mangoes",
+
+    "block.mighty_mangoes.mangocrate":"Mango Crate",
+    "item.mighty_mangoes.mango":"Mango",
+    "item.mighty_mangoes.gildedmango":"Gilded Mango",
+    "item.mighty_mangoes.mangogelato":"Mango Gelato"
+}

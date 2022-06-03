@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+    {
+      "item": "mighty_mangoes:mangocrate"
+    }
+  ],
+  "result": {
+    "item": "mighty_mangoes:mango",
+    "count": 9
+  }
+}

@@ -1,0 +1,8 @@
+{
+    "parent": "block/cube_bottom_top",
+    "textures": {
+        "top": "mighty_mangoes:block/mango_crate_top",
+        "bottom": "mighty_mangoes:block/mango_crate_bottom",
+        "side": "mighty_mangoes:block/mango_crate_side"
+    }
+}

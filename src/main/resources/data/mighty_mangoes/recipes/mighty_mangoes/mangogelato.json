@@ -1,0 +1,21 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "minecraft:milk_bucket"
+        },
+        {
+            "item": "minecraft:sugar"
+        },
+        {
+            "item": "mighty_mangoes:mango"
+        },
+        {
+            "item": "minecraft:ice"
+        }
+    ],
+    "result": {
+        "item": "mighty_mangoes:mangogelato",
+        "count": 1
+    }
+}
